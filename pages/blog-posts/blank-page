@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="../styles/stylesheet.css">
-    <title>About me</title>
+    <title>blank</title>
 </head>
-    <h1 id="frontpage-title">About me</h1>
+    <h1 id="frontpage-title">blank</h1>
 <body>
     <div id="nav-cloud">
         <nav id="nav-bar">
@@ -22,7 +22,7 @@
                 <div class="dropdown">
                     <span id="dropdown-box">More ⬇️</span>
                     <div class="dropdown-content">
-                        <a href="#">About me</a>
+                        <a href="../webpage3/pages/about-me.html">About me</a>
                         <a href="#">Crypto</a>
                         <a href="#">Portfolio</a>
                         <a href="#">Contact me</a>
@@ -33,9 +33,7 @@
     </div>
 <main>
     <article>
-        <h2 id="sub-heading">So who the hell am I?</h2>
-        <h3>Well I'm glad you asked Anon.</h3>
-        <p>My name, as the website domain might give away, is Joseph Straw. I'm 19 years old and I'm currently in my first year of a two year BTEC national diploma computer science course at college. I've always been interested in technology and how it has seemingly grown into an indispensable part of human society over the course of just a few decades.</p>
+        <p>hello there</p>
     </article>
 </main>
 <footer>
